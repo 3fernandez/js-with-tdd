@@ -1,0 +1,24 @@
+{
+  "name": "js-with-tdd",
+  "version": "1.0.0",
+  "description": "A lib built while learning Javascript with TDD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3fernandez/js-with-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Euclides Fernandes <ef.webdev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3fernandez/js-with-tdd/issues"
+  },
+  "homepage": "https://github.com/3fernandez/js-with-tdd#readme"
+}
